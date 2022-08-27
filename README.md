@@ -1,9 +1,10 @@
 # Tic Tac Toe Game with React
 
 - The game includes 2 modes:
--- Multiplayer
--- vs Computer
-
 ![](src/assets/1.PNG)
-![](src/assets/2.PNG)
+
+- Multiplayer Mode
 ![](src/assets/3.PNG)
+
+-- vs Computer Mode
+![](src/assets/2.PNG)
